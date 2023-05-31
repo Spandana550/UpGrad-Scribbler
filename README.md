@@ -1,4 +1,4 @@
-# Scribbler_Project_Upgrad
+# Upgrad_Scribbler
 Frontend Upgrad Scribbler Project assigned by upgrad Learn In FullStack Development 
 
    ## Home Page
